@@ -1,3 +1,29 @@
+### why doctor is important?
+Medicines Cure diseases,but only doctor can cure patients.
+
+
+
+
+
+### What is a  Psychiatry?
+Psychiatry is the branch of medicine focused on the diagnosis, treatment and prevention of mental, emotional and behavioral disorders. A psychiatrist is a medical doctor (an M.D. or D.O.) ... Psychiatrists are qualified to assess both the mental and physical aspects of psychological problems.
+
+### What is a dermatologist?
+A dermatologist is a doctor who specializes in conditions involving the skin, hair, and nails. A dermatologist can identify and treat more than 3,000 conditions. These conditions include eczema, psoriasis, and skin cancer, among many others.
+
+
+### What does a cardiologist do?
+A cardiologist is a doctor who specializes in treating diseases of the cardiovascular system — mainly the heart and blood vessels. In order to become a cardiologist, a physician must attend four years of medical school and an additional six to eight years of internal medicine and specialized cardiology training.
+
+
+### What is a surgeon Doctor?
+A surgeon is a doctor who specializes in evaluating and treating conditions that may require surgery, or physically changing the human body. Surgeries can be done to diagnose or treat disease or injury. In the operating room, surgeons lead a team of other doctors and nurses to make sure that a procedure goes smoothly.
+
+
+
+
+
+
 
 # Getting Started with Create React App
 
